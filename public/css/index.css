@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://media.cntraveler.com/photos/5eb18e42fc043ed5d9779733/16:9/w_2580,c_limit/BlackForest-Germany-GettyImages-147180370.jpg");
+    background-color: #cccccc;
+}
+
+.center {
+    padding-top: 150px;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+.button {
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+h1{
+    font-size: 40px;
+    font-weight:800;
+    margin-bottom: 16px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
